@@ -1,0 +1,18 @@
+
+.navbar-brand{
+   margin-left: 10px;
+   font-weight: bold;
+}
+.navbar-item{
+    color: blue;
+}
+.navbar{
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 20px;
+}
+.container-fluid{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+}

@@ -1,0 +1,29 @@
+.form{
+    background-color: blue;
+}
+.sec1{
+        background-color: white;
+        border: 1px solid royalblue;
+        padding: 20px;
+        max-width: 600px;
+        max-height: 500px;
+        border-radius: 10px;
+        text-align: center;
+        align-items: center;
+        margin-left: 460px;
+        margin-top: 20px;
+        margin-right: 200px;
+}
+.col-mid-12{
+    text-align: left;
+    padding-left: 20px;
+}
+.form-control{
+    height: 40px;
+}
+.form-control-2{
+    height: 60px;
+    border: 1px solid lightsteelblue;
+    border-radius: 10px;
+    width: 545px;
+}
